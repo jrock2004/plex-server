@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/jrock2004/plex-server/compare/v1.0.0...v1.0.1) (2022-02-18)
+
+
+### Build - No Feature Work
+
+* adding versioning support ([51eeeb3](https://github.com/jrock2004/plex-server/commit/51eeeb3bb2d82f93ee451d5abed9d61cf3bdd045))
+
 ## 1.0.0 (2022-02-18)
 
 

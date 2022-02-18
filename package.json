@@ -1,0 +1,30 @@
+{
+  "name": "plex_server",
+  "version": "1.0.0",
+  "description": "My plex server for watching movies",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrock2004/plex-server.git"
+  },
+  "keywords": [
+    "plex"
+  ],
+  "author": "John Costanzo <jrock2004@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrock2004/plex-server/issues"
+  },
+  "homepage": "https://github.com/jrock2004/plex-server#readme",
+  "devDependencies": {
+    "@commitlint/config-conventional": "^16.2.1",
+    "husky": "^7.0.0",
+    "standard-version": "^9.3.2"
+  },
+  "scripts": {
+    "release": "standard-version",
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^16.2.1"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "types": [
+    {
+      "type": "build",
+      "section": "Build - No Feature Work"
+    },
+    {
+      "type": "chore",
+      "section": "Chores"
+    },
+    {
+      "type": "ci",
+      "section": "Continuous Integrations"
+    },
+    {
+      "type": "docs",
+      "section": "Other Changes"
+    },
+    {
+      "type": "feat",
+      "section": "Features"
+    },
+    {
+      "type": "fix",
+      "section": "Bug Fixes"
+    },
+    {
+      "type": "perf",
+      "section": "Performance Enhancements"
+    },
+    {
+      "type": "refactor",
+      "section": "Internal"
+    },
+    {
+      "type": "revert",
+      "section": "Undo"
+    },
+    {
+      "type": "style",
+      "section": "Other Changes"
+    },
+    {
+      "type": "test",
+      "section": "Tests"
+    }
+  ]
+}
+

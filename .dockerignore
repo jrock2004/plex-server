@@ -1,1 +1,9 @@
 .git
+package.json
+node_modules
+yarn.lock
+.husky
+README.md
+commitlint.config.js
+.versionrc
+CHANGELOG.md

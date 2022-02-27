@@ -21,6 +21,8 @@
     "standard-version": "^9.3.2"
   },
   "scripts": {
+    "start": "sudo docker-compose up -d",
+    "stop": "sudo docker-compose down",
     "release": "standard-version",
     "prepare": "husky install"
   },
